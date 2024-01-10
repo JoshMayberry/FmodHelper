@@ -1,0 +1,32 @@
+{
+	"name": "com.jmayberry.fmodhelper",
+	"displayName": "FMOD Helper",
+	"version": "1.1.0",
+	"unity": "2021.1",
+	"description": "A helper library using fmod.",
+	"keywords": [
+		"fmod",
+		"audio",
+		"utility"
+	],
+	"dependencies": {
+		"com.jmayberry.customattributes": "git@github.com:JoshMayberry/CustomAttributes.git",
+		"com.jmayberry.loadingscreen": "git@github.com:JoshMayberry/LoadingScreen.git"
+	},
+	"author": {
+		"name": "jmayberry",
+		"email": "joshua.mayberry1991@gmail.com"
+	},
+	"samples": [
+		{
+			"displayName": "Fmod Helper Samples",
+			"description": "A file with some sample audio that teh otehr samples use",
+			"path": "Samples~/FmodHelperSamples"
+		},
+		{
+			"displayName": "Preload Banks",
+			"description": "WebGL needs the banks preloaded so teh audio plays correctly. This shows how to do that.",
+			"path": "Samples~/PreloadBanks"
+		}
+	]
+}

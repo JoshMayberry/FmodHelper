@@ -1,0 +1,19 @@
+{
+    "name": "jmayberry.FmodHelper",
+    "rootNamespace": "jmayberry.FmodHelper",
+    "references": [
+        "jmayberry.CustomAttributes",
+        "jmayberry.SceneTransitions",
+        "Unity.TextMeshPro",
+        "FMODUnity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
